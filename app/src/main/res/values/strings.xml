@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmartRail</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="sources_array">
+        <item>NDLS</item>
+        <item>JP</item>
+        <item>CSTM</item>
+        <item>HWH</item>
+        <item>R</item>
+        <item>NGP</item>
+        <item>TVC</item>
+        <item>VSKP</item>
+    </string-array>
+</resources>
